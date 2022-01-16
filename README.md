@@ -1,0 +1,1 @@
+# qa_course_python_and_oop
