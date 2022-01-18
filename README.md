@@ -1,1 +1,3 @@
-# qa_course_python_and_oop
+# Погружение в Python. ООП.
+
+## Домашняя работа.
